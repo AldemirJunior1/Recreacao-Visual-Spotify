@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Recriação do Spotify</title>
+     <title>Projeto de Recriação Visual do Spotify</title>
 </head>
 <body>
 
